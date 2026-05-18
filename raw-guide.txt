@@ -1,4 +1,4 @@
-=== LƯU Ý QUAN TRỌNG (CẦN ĐỌC TRƯỚC KHI TẢI VÀ CÀI ĐẶT) ===
+=== LƯU Ý QUAN TRỌNG (CẦN ĐỌC TRƯỚC KHI TẢI VÀ CÀI ĐẶT AUTOEDGEFB) ===
 
 a. Môi trường hoạt động: Tool chỉ hoạt động trên Windows và được tối ưu duy nhất cho trình duyệt Microsoft Edge .
 
@@ -14,3 +14,13 @@ f. Đọc kỹ mục Hướng dẫn: Trước khi chạy Tool, bạn cần đọ
 
 g. Phát triển Tool: Đây là một dự án cá nhân, hoàn toàn miễn phí và tác giả sẽ cố gắng dành thời gian để Tool ngày càng được hoàn thiện. Khi có phiên bản mới, Tool sẽ được tự động cập nhật OTA mà không cần bạn thao tác thủ công. Các đóng góp hoặc ý kiến xây dựng của bạn là nguồn động lực lớn cho Người phát triển (vui lòng liên hệ qua Telegram để sớm nhận được phản hồi).
 
+*** TOOL AUTOEDGEFB ĐƯỢC CUNG CẤP HOÀN TOÀN MIỄN PHÍ ***
+*** TÁC GIẢ KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM NÀO ĐỐI VỚI MỌI HẬU QUẢ PHÁT SINH TỪ VIỆC SỬ DỤNG TOOL ***
+
+Nếu người dùng có bất kỳ thắc mắc hoặc đóng góp, vui lòng liên hệ theo:
+➤ Telegram: t.me/autoedgefb
+✉ Email: nguyenphuocan131@gmail.com
+🌐 Tải Tool tại: autoedgefb.cronpost.com
+
+*** AUTOEDGEFB - Phantom Edition ***
+*** © Developed by: anhnn@2026 ***
