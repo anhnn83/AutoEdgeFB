@@ -1,0 +1,16 @@
+=== LƯU Ý QUAN TRỌNG (CẦN ĐỌC TRƯỚC KHI TẢI VÀ CÀI ĐẶT) ===
+
+a. Môi trường hoạt động: Tool chỉ hoạt động trên Windows và được tối ưu duy nhất cho trình duyệt Microsoft Edge .
+
+b. Anti-Virus: Các chương trình Anti-Virus (hoặc Windows Defender) có thể nhận nhầm File Cài đặt (AutoEdgeFB_Setup.exe)/File chạy Tool (AutoEdge.exe) là virus, vì vậy có thể cần tắt các trình Anti-Virus khi cài đặt hoặc chạy Tool (More Info -> Run Anyway hoặc cho phép Tool chạy trong chế độ Exception/Bypass). Nếu máy tính có nhiều dữ liệu quan trọng, nên chạy Tool trong môi trường cô lập (ảo hóa bằng VMWare, Docker...)
+
+c. Chạy Tool bằng quyền quản trị: Nếu không khởi động được Tool hoặc gặp lỗi không thể điều khiển trình duyệt Edge trong chế độ Ẩn trình duyệt (Headless), hãy thử chạy lại Tool bằng quyền quản trị (Run as Administrator).
+
+d. Tối ưu hóa: Hãy tắt tính năng tiết kiệm năng lượng (Energy Saver) trên Edge để tránh gián đoạn tiến trình hoạt động của Tool.
+
+e. Quản lý đa tài khoản (Multi-Profile): Tool hoạt động trên cơ chế tạo ra các môi trường Edge độc lập cho từng tài khoản (Profile). Tuyệt đối không tự ý mở trình duyệt Edge bên ngoài để đăng nhập. Bạn bắt buộc phải vào tab "Thiết lập Profile" trên Tool, bấm nút "Mở để Login" để hệ thống tự động dọn dẹp và cô lập môi trường an toàn cho bạn đăng nhập.
+
+f. Đọc kỹ mục Hướng dẫn: Trước khi chạy Tool, bạn cần đọc kỹ mục Hướng dẫn trên Tool để hiểu rõ cách thức nó vận hành để thực hiện các thiết lập phù hợp.
+
+g. Phát triển Tool: Đây là một dự án cá nhân, hoàn toàn miễn phí và tác giả sẽ cố gắng dành thời gian để Tool ngày càng được hoàn thiện. Khi có phiên bản mới, Tool sẽ được tự động cập nhật OTA mà không cần bạn thao tác thủ công. Các đóng góp hoặc ý kiến xây dựng của bạn là nguồn động lực lớn cho Người phát triển (vui lòng liên hệ qua Telegram để sớm nhận được phản hồi).
+
