@@ -1,0 +1,36 @@
+name: Auto Generate Raw Guide
+
+# Chỉ chạy quy trình này khi có thay đổi được push lên nhánh main và dính tới file index.html
+on:
+  push:
+    branches:
+      - main  # Đổi thành 'master' nếu repo của bạn dùng nhánh master
+    paths:
+      - 'index.html' 
+
+permissions:
+  contents: write
+
+jobs:
+  update-guide:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài đặt Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Cài đặt thư viện BeautifulSoup
+        run: pip install beautifulsoup4
+
+      - name: Chạy script tạo file txt
+        run: python extract_guide.py
+
+      - name: Tự động Commit file txt lên Github
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update raw-guide.txt từ thay đổi của index.html"
+          file_pattern: raw-guide.txt
