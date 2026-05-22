@@ -1,6 +1,6 @@
 === LƯU Ý QUAN TRỌNG (CẦN ĐỌC TRƯỚC KHI TẢI VÀ CÀI ĐẶT AUTOEDGEFB) ===
 
-a. Môi trường hoạt động: Tool chỉ hoạt động trên Windows và được tối ưu duy nhất cho trình duyệt Microsoft Edge . OS: Windows 10/11 - RAM: > 4GB - Storage: > 1GB/Profile
+a. Môi trường hoạt động: Tool chỉ hoạt động trên Windows và được tối ưu duy nhất cho trình duyệt Microsoft Edge . OS: Windows 10/11 - RAM > 4GB - Storage > 1GB/Profile
 
 b. Anti-Virus: Các chương trình Anti-Virus (hoặc Windows Defender) có thể nhận nhầm File Cài đặt (AutoEdgeFB_Setup.exe)/File chạy Tool (AutoEdge.exe) là virus, vì vậy có thể cần tắt các trình Anti-Virus khi cài đặt hoặc chạy Tool (More Info -> Run Anyway hoặc cho phép Tool chạy trong chế độ Exclusion/Exception/Bypass). Nếu máy tính có nhiều dữ liệu quan trọng, nên chạy Tool trong môi trường cô lập (ảo hóa bằng VMWare, Docker...)
 
