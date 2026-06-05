@@ -19,8 +19,8 @@ if guide_section:
 *** TÁC GIẢ KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM NÀO ĐỐI VỚI MỌI HẬU QUẢ PHÁT SINH TỪ VIỆC SỬ DỤNG TOOL ***
 
 Nếu người dùng có bất kỳ thắc mắc hoặc đóng góp, vui lòng liên hệ theo:
-➤ Telegram: t.me/autoedgefb
-✉ Email: nguyenphuocan131@gmail.com
+➤ Telegram: t.me/anhnn83
+✉ Email: ngocanh121983@gmail.com
 🌐 Tải Tool tại: autoedgefb.cronpost.com
 
 *** AUTOEDGEFB - Phantom Edition ***
