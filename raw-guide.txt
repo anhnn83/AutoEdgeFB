@@ -1,18 +1,18 @@
-=== LƯU Ý QUAN TRỌNG (CẦN ĐỌC TRƯỚC KHI TẢI VÀ CÀI ĐẶT AUTOEDGEFB) ===
+=== IMPORTANT NOTES (MUST READ BEFORE DOWNLOADING AND INSTALLING AUTOEDGEFB) ===
 
-a. Môi trường hoạt động: Tool chỉ hoạt động trên Windows và được tối ưu duy nhất cho trình duyệt Microsoft Edge . OS: Windows 10/11 - RAM > 4GB - Storage > 1GB/Profile
+a. Operating environment: The Tool only works on Windows and is exclusively optimized for the Microsoft Edge browser. OS: Windows 10/11 - RAM > 4GB - Storage > 1GB/Profile
 
-b. Anti-Virus: Các chương trình Anti-Virus (hoặc Windows Defender) có thể nhận nhầm File Cài đặt (AutoEdgeFB_Setup.exe)/File chạy Tool (AutoEdge.exe) là virus, vì vậy có thể cần tắt các trình Anti-Virus khi cài đặt hoặc chạy Tool (More Info -> Run Anyway hoặc cho phép Tool chạy trong chế độ Exclusion/Exception/Bypass). Nếu máy tính có nhiều dữ liệu quan trọng, nên chạy Tool trong môi trường cô lập (ảo hóa bằng VMWare, Docker...)
+b. Anti-Virus: Anti-Virus programs (or Windows Defender) may mistakenly identify the Setup File (AutoEdgeFB_Setup.exe) / Tool executable (AutoEdge.exe) as a virus, so you may need to disable Anti-Virus programs when installing or running the Tool (More Info -> Run Anyway, or allow the Tool to run in Exclusion/Exception/Bypass mode). If the computer has a lot of important data, you should run the Tool in an isolated environment (virtualization using VMWare, Docker...)
 
-c. Chạy Tool bằng quyền quản trị: Nếu không khởi động được Tool hoặc gặp lỗi không thể điều khiển trình duyệt Edge trong chế độ Ẩn trình duyệt (Headless), hãy thử chạy lại Tool bằng quyền quản trị (Run as Administrator).
+c. Run Tool as Administrator: If the Tool fails to start or encounters an error where it cannot control the Edge browser in Headless mode, try running the Tool again with administrative privileges (Run as Administrator).
 
-d. Tối ưu hóa: Hãy tắt tính năng tiết kiệm năng lượng (Energy Saver) trên Edge để tránh gián đoạn tiến trình hoạt động của Tool.
+d. Optimization: Please turn off the Energy Saver feature on Edge to avoid interrupting the Tool's operation progress.
 
-e. Quản lý đa tài khoản (Multi-Profile): Tool hoạt động trên cơ chế tạo ra các môi trường Edge độc lập cho từng tài khoản (Profile). Tuyệt đối không tự ý mở trình duyệt Edge bên ngoài để đăng nhập. Bạn bắt buộc phải vào tab "Thiết lập Profile" trên Tool, bấm nút "Mở để Login" để hệ thống tự động dọn dẹp và cô lập môi trường an toàn cho bạn đăng nhập.
+e. Multi-account management (Multi-Profile): The Tool operates on a mechanism that creates independent Edge environments for each account (Profile). Absolutely do not open the Edge browser externally to log in. You must go to the "Profile Setup" tab on the Tool, click the "Open to Login" button so the system automatically cleans up and isolates a safe environment for you to log in.
 
-f. Đọc kỹ mục Hướng dẫn: Trước khi chạy Tool, bạn cần đọc kỹ mục Hướng dẫn trên Tool để hiểu rõ cách thức nó vận hành để thực hiện các thiết lập phù hợp.
+f. Read the Guide carefully: Before running the Tool, you must carefully read the Guide section on the Tool to understand how it operates in order to make the appropriate settings.
 
-g. Phát triển Tool: Đây là một dự án cá nhân, hoàn toàn miễn phí và tác giả sẽ cố gắng dành thời gian để Tool ngày càng được hoàn thiện. Khi có phiên bản mới, Tool sẽ được tự động cập nhật OTA mà không cần bạn thao tác thủ công. Các đóng góp hoặc ý kiến xây dựng của bạn là nguồn động lực lớn cho Người phát triển (vui lòng liên hệ qua Telegram để sớm nhận được phản hồi).
+g. Tool Development: This is a personal project, completely free, and the author will try to spend time perfecting the Tool. When a new version is available, the Tool will be automatically updated via OTA without requiring manual action. Your contributions or constructive feedback are a great source of motivation for the Developer (please contact via Telegram for a prompt response).
 
 *** TOOL AUTOEDGEFB ĐƯỢC CUNG CẤP HOÀN TOÀN MIỄN PHÍ ***
 *** TÁC GIẢ KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM NÀO ĐỐI VỚI MỌI HẬU QUẢ PHÁT SINH TỪ VIỆC SỬ DỤNG TOOL ***
