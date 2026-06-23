@@ -15,16 +15,17 @@ if guide_section:
     
     # Phần chân trang tĩnh muốn thêm vào cuối file
     footer_text = """
-*** TOOL AUTOEDGEFB ĐƯỢC CUNG CẤP HOÀN TOÀN MIỄN PHÍ ***
-*** TÁC GIẢ KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM NÀO ĐỐI VỚI MỌI HẬU QUẢ PHÁT SINH TỪ VIỆC SỬ DỤNG TOOL ***
+*** THE AUTOEDGEFB TOOL IS PROVIDED COMPLETELY FREE OF CHARGE ***
+*** THE AUTHOR BEARS NO RESPONSIBILITY FOR ANY CONSEQUENCES ARISING FROM THE USE OF THE TOOL ***
 
-Nếu người dùng có bất kỳ thắc mắc hoặc đóng góp, vui lòng liên hệ theo:
+Users with any questions or contributions, please contact:
+Nguyen Ngoc Anh
 ➤ Telegram: t.me/anhnn83
-✉ Email: ngocanh121983@gmail.com
-🌐 Tải Tool tại: autoedgefb.cronpost.com
+✉ Email: anhnn@dgd.vn
+🌐 Download Tool at: autoedgefb.cronpost.com
 
-*** AUTOEDGEFB - Phantom Edition ***
-*** © Developed by: anhnn@2026 ***
+AUTOEDGEFB - Phantom Edition
+© 2026 Developed by anhnn
 """
     
     # Ghi ra file text
