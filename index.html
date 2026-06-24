@@ -13,21 +13,26 @@
 </head>
 <body class="bg-gray-50 text-gray-800 antialiased">
 
+    <!-- Navigation Bar -->
     <nav class="fixed w-full bg-white shadow-sm z-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16 items-center">
                 <div class="flex-shrink-0 flex items-center">
-                    <span class="text-2xl font-bold text-blue-700 flex items-center">
+                    <a href="index.html" class="text-2xl font-bold text-blue-700 flex items-center">
                         <img src="Icon.png" alt="AutoEdgeFB Logo" class="w-8 h-8 mr-2 object-contain">
                         AutoEdgeFB
-                    </span>
+                    </a>
                 </div>
                 <div class="hidden md:flex space-x-8">
-                    <a href="#features" class="text-gray-600 hover:text-blue-600 font-medium transition">Features</a>
-                    <a href="#demo" class="text-gray-600 hover:text-blue-600 font-medium transition">Demo</a>
-                    <a href="#guide" class="text-gray-600 hover:text-blue-600 font-medium transition">Notes</a>
+                    <a href="index.html#how-it-works" class="text-gray-600 hover:text-blue-600 font-medium transition">How It Works</a>
+                    <a href="index.html#features" class="text-gray-600 hover:text-blue-600 font-medium transition">Features</a>
+                    <a href="index.html#demo" class="text-gray-600 hover:text-blue-600 font-medium transition">Demo</a>
+                    <a href="index.html#guide" class="text-gray-600 hover:text-blue-600 font-medium transition">Notes</a>
                 </div>
+                <div class="md:hidden flex items-center">
+                    <a href="index.html" class="text-sm font-bold text-blue-600 bg-blue-50 px-4 py-2 rounded-lg">Back to Home</a>
                 </div>
+            </div>
         </div>
     </nav>
 
@@ -106,7 +111,7 @@
 
             <!-- Nút CTA Điều hướng sang trang Hướng dẫn chi tiết -->
             <div class="mt-16 text-center">
-                <a href="guide.html" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center bg-gray-900 text-white hover:bg-blue-700 px-8 py-4 rounded-full font-bold text-lg shadow-xl transition transform hover:-translate-y-1 group">
+                <a href="guide.html" class="inline-flex items-center justify-center bg-gray-900 text-white hover:bg-blue-700 px-8 py-4 rounded-full font-bold text-lg shadow-xl transition transform hover:-translate-y-1 group">
                     <i class="fa-solid fa-book-open mr-3 group-hover:animate-pulse"></i> Read the Comprehensive Setup Guide
                 </a>
                 <p class="mt-4 text-sm text-gray-500 font-medium">Highly recommended for first-time users!</p>
