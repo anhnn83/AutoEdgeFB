@@ -1,12 +1,12 @@
 === IMPORTANT NOTES (MUST READ BEFORE DOWNLOADING AND INSTALLING AUTOEDGEFB) ===
 
-a. Operating environment: The Tool only works on Windows and is exclusively optimized for the Microsoft Edge browser. OS: Windows 10/11 - RAM > 4GB - Storage > 1GB/Profile
+a. Operating environment: The Tool only works on Windows OS and Microsoft Edge browser. Minimum Requirements: RAM > 2GB - Storage > 1GB
 
-b. Anti-Virus: Anti-Virus programs (or Windows Defender) may mistakenly identify the Setup File (AutoEdgeFB_Setup.exe) / Tool executable (AutoEdge.exe) as a virus, so you may need to disable Anti-Virus programs when installing or running the Tool (More Info -> Run Anyway, or allow the Tool to run in Exclusion/Exception/Bypass mode). If the computer has a lot of important data, you should run the Tool in an isolated environment (virtualization using VMWare, Docker...)
+b. Anti-Virus: Anti-Virus Programs (Windows Defender) may mistakenly identify the Setup File (AutoEdgeFB_Setup.exe/AutoEdgeFB_Setup.zip) as a virus, so you may need to disable Anti-Virus programs when installing the Tool (More Info -> Run Anyway, or allow the Tool to run in Exclusion/Exception/Bypass mode). If the computer has a lot of important data, you should run the Tool in an Isolated or Virtualization Environment (VMWare, Docker...)
 
-c. Run Tool as Administrator: If the Tool fails to start or encounters an error where it cannot control the Edge browser in Headless mode, try running the Tool again with administrative privileges (Run as Administrator).
+c. Run Tool as Administrator: If the Tool fails to start or encounters an error where it cannot control the Edge browser in Headless mode, try running the Tool again with Administrative privileges (Run as Administrator).
 
-d. Optimization: Please turn off the Energy Saver feature on Edge to avoid interrupting the Tool's operation progress.
+d. Optimization: Don't forget to turn off Energy Saver features in Windows and Microsoft Edge to prevent interruptions while the Tool is running.
 
 e. Multi-account management (Multi-Profile): The Tool operates on a mechanism that creates independent Edge environments for each account (Profile). Absolutely do not open the Edge browser externally to log in. You must go to the "Profile Setup" tab on the Tool, click the "Open to Login" button so the system automatically cleans up and isolates a safe environment for you to log in.
 
