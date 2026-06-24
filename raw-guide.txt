@@ -1,4 +1,4 @@
-=== IMPORTANT NOTES (MUST READ BEFORE DOWNLOADING AND INSTALLING AUTOEDGEFB) ===
+=== IMPORTANT NOTES ===
 
 a. Operating environment: The Tool only works on Windows OS and Microsoft Edge browser. Minimum Requirements: RAM > 2GB - Storage > 1GB
 
