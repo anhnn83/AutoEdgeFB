@@ -10,9 +10,11 @@ d. Optimization: Don't forget to turn off Energy Saver features in Windows and M
 
 e. Multi-account management (Multi-Profile): The Tool operates on a mechanism that creates independent Edge environments for each account (Profile). Absolutely do not open the Edge browser externally to log in. You must go to the "Profile Setup" tab on the Tool, click the "Open to Login" button so the system automatically cleans up and isolates a safe environment for you to log in.
 
-f. Read the Guide carefully: Before running the Tool, you must carefully read the Guide section on the Tool to understand how it operates in order to make the appropriate settings.
+f. Facebook Language Support: This tool only supports Facebook accounts with the language set to English or Vietnamese . To change it, from your Facebook PERSONAL Page, go to: Settings & Privacy → Language → Facebook Language → English/Vietnamese.
 
-g. Tool Development: This is a personal project, completely free, and the author will try to spend time perfecting the Tool. When a new version is available, the Tool will be automatically updated via OTA without requiring manual action. Your contributions or constructive feedback are a great source of motivation for the Developer (please contact via Telegram for a prompt response).
+g. Read the Guide carefully: Before running the Tool, you must carefully read the Guide section on the Tool to understand how it operates in order to make the appropriate settings.
+
+h. Tool Development: This is a personal project, completely free, and the author will try to spend time perfecting the Tool. When a new version is available, the Tool will be automatically updated via OTA without requiring manual action. Your contributions or constructive feedback are a great source of motivation for the Developer (please contact via Telegram for a prompt response).
 
 *** THE AUTOEDGEFB TOOL IS PROVIDED COMPLETELY FREE OF CHARGE ***
 *** THE AUTHOR BEARS NO RESPONSIBILITY FOR ANY CONSEQUENCES ARISING FROM THE USE OF THE TOOL ***
